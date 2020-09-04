@@ -1,0 +1,12 @@
+/* Home page, marketing landing page */
+#jumbotron {
+    background-image: url(../images/jumbotron/jumbotron1dark.jpg);
+    background-position: 0% 60%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #202021;
+}
+
+.shadow {
+    text-shadow: 2px 2px 8px black;
+}
